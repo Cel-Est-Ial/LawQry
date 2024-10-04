@@ -1,0 +1,28 @@
+[
+    {
+        "question": "What is the function of the Legislature?",
+        "options": ["Make laws", "Interpret laws", "Enforce laws", "None"],
+        "correct_answer": "Make laws"
+    },
+    {
+        "question": "How many houses does the Parliament have?",
+        "options": ["One", "Two", "Three", "Four"],
+        "correct_answer": "Two"
+    },
+    {
+        "question": "Which country has the oldest Parliament?",
+        "options": ["UK", "USA", "Iceland", "India"],
+        "correct_answer": "Iceland"
+    },
+    {
+        "question": "Who presides over the Rajya Sabha?",
+        "options": ["President", "Prime Minister", "Vice President", "Chief Justice"],
+        "correct_answer": "Vice President"
+    },
+    {
+        "question": "Where is the Indian Parliament located?",
+        "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+        "correct_answer": "Delhi"
+    }
+    
+]
